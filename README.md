@@ -12,7 +12,7 @@ Charmander |	1317 images
 
 Dog |	1500 images
 
-Helicopter |	1500 images
+Aircraft |	1500 images
 
 Laptop |	1347 images
 
