@@ -1,7 +1,5 @@
 # Things-Translator-Dataset
 
-# Things-Translator-Dataset
-
 Public dataset
 
 10 Classes/Labels |	Amount
